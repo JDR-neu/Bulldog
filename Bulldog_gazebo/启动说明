@@ -1,0 +1,5 @@
+1.启动gazebo仿真:bulldog/launch/gazebo.launch
+
+2.启动建图与导航:gmapping/launch/slam_gmapping_pr2.launch,启动后直接通过Rviz设置目标点即可开始导航
+
+键盘控制:turtlebot_teleop1/launch/keyboard_teleop.launch
