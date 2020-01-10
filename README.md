@@ -1,4 +1,6 @@
 # Bulldog
+![bulldog](https://user-images.githubusercontent.com/36022350/71874489-0727f480-315d-11ea-80f1-9e6042fd0df7.jpg)
+
 Common ROS packages for the Bulldog robot, useable for both simulation and real robot operation.
 
 Bulldog_control : Control configuration
