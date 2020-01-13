@@ -16,5 +16,5 @@ Robot ROS packages for the Bulldog robot, for operating robot hardware.
 ## Bulldog_simulator
 Simulator ROS packages for the Bulldog robot.
 
-## Bulldog_gazebo :
+## Bulldog_gazebo 
 Gazebo plugin definitions and extensions to the robot URDF.
