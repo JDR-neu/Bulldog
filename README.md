@@ -3,10 +3,13 @@
 
 Common ROS packages for the Bulldog robot, useable for both simulation and real robot operation.
 
-Bulldog_control : Control configuration
-Bulldog_description : Robot description (URDF)
-Bulldog_msgs : Message definitions
-Bulldog_navigation : Navigation configurations and demos
+`Bulldog_control`  Control configuration
+
+`Bulldog_description`  Robot description (URDF)
+
+`Bulldog_msgs`  Message definitions
+
+`Bulldog_navigation`  Navigation configurations and demos
 
 ## Bulldog_robot
 Robot ROS packages for the Bulldog robot, for operating robot hardware.
